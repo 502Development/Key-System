@@ -5,7 +5,7 @@ Based on https://discord.gg/kEUBXwNtEG 's Key System service
 
 ![image](https://user-images.githubusercontent.com/110735758/201164381-76676fdc-04cd-4a46-82cf-96a2e5070262.png)
 
-View the loader & source here: https://github.com/502Development/Key-System/blob/main/Main/Loader.lua
+View the loader here: https://github.com/502Development/Key-System/blob/main/Main/Loader.lua
 
 # Documentation 
 This is a short documentation on how to use the library - all of this is pretty self explanatory. 
