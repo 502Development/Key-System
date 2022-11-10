@@ -18,19 +18,19 @@ local function executeWhenFinishedFunction() -- The code you would like to execu
 end 
 ```
 
-How to change KeySystemLink 
+## How to change KeySystemLink 
 ```lua
 local keySystemLink = "https://link-hub.net/518673/infamy-gui" -- Insert the linkvertise link here. 
 ```
 Make sure NOT to put your key system GUI link here but rather your linkvertise link. 
 
-How to change keyName
+## How to change keyName
 ```lua
 local keyName = "Infamy_GUI" -- Put the last few characters of the key here. Example: https://1.kelprepl.repl.co/getkey/Infamy_GUI would be "Infamy_GUI"
 ```
 Make sure to only use the last part of the link the bot gives you. 
 
-How to change execute function: 
+## How to change execute function: 
 ```lua
 local function executeWhenFinishedFunction() -- The code you would like to execute after the key is checked and valid. 
 	print("Ok")
