@@ -7,6 +7,8 @@ Based on https://discord.gg/kEUBXwNtEG 's Key System service
 
 View the loader here: https://github.com/502Development/Key-System/blob/main/Main/Loader.lua
 
+Download the source here: https://github.com/502Development/Key-System/releases
+
 # Documentation 
 This is a short documentation on how to use the library - all of this is pretty self explanatory. 
 ## How to change KeySystemLink 
