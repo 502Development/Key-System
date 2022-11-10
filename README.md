@@ -8,16 +8,7 @@ Based on https://discord.gg/kEUBXwNtEG 's Key System service
 View the loader & source here: https://github.com/502Development/Key-System/blob/main/Main/Loader.lua
 
 # Documentation 
-Settings: 
-```lua 
-local keySystemLink = "https://link-hub.net/518673/infamy-gui" -- Insert the linkvertise link here. 
-local keyName = "Infamy_GUI" -- Put the last few characters of the key here. Example: https://1.kelprepl.repl.co/getkey/Infamy_GUI would be "Infamy_GUI"
-
-local function executeWhenFinishedFunction() -- The code you would like to execute after the key is checked and valid. 
-	print("Ok")
-end 
-```
-
+This is a short documentation on how to use the library - all of this is pretty self explanatory. 
 ## How to change KeySystemLink 
 ```lua
 local keySystemLink = "https://link-hub.net/518673/infamy-gui" -- Insert the linkvertise link here. 
